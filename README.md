@@ -10,7 +10,9 @@ Het andere deel van CSharp heb ik op mijn eigen geleerd door thuis aan wat proje
 Ook heb ik nog van mijn Nokels geleerd, zij zijn bijde programeurs.
 
 ### Moeilijk heden
-- Random functie: 
+- Random functie: had een probleem met het min. en max. getallen intestellen waardoor de functie een error gaf
+- Refactoren: SourceTree, problemen met 2 dezelfde bestanden op 2 verschillende locaties
+- Sliders: Tabel die niet de hoogte en breedte gaf v/d ellipse
 
 # Javascript
   
