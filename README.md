@@ -31,6 +31,8 @@ Al deze toepassing hebben wij in vba gezien (acces en excel).
 # Javascript
 
 # Linux commandos
-  
-  
-  
+Linux commandos van de linux terminal:
+- ls: toont directory lijst
+- cd: naar home directory
+- mkdir: een nieuwe directory maken
+- rmdir: een lege directory verwijderen
