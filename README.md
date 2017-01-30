@@ -30,7 +30,18 @@ Al deze toepassing hebben wij in VBA gezien (acces en excel).
 
 # Javascript
 
-# Linux commandos
+Javascript is ongeveer hetzelfde als C#, er zijn veel gelijkenissen.
+
+## gelijkenissen
+- de `if-functie`is hetzelfde als die in C#
+- de `for-funcite` is hetzelfde
+
+## functies
+-console.log() --> is het zelfde als Console.WriteLine()
+
+
+# Linux
+## commando's
 Linux commandos van de linux terminal:
 - `ls`: toont directory lijst
 - `cd`: naar home directory
