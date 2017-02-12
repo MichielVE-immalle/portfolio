@@ -5,6 +5,7 @@
 - https://dotnetfiddle.net/G1x011     (Raad het getal, tussen 0 en 100)
 - https://github.com/MichielVE-immalle/CookieClickerWpf     (Cookie clicker)
 - https://github.com/MichielVE-immalle/FizzBuzzTest     (De FizzBuzz test)
+- https://github.com/MichielVE-immalle/Balloons-1     (groot school project)
 
 ## Waar geleerd
 Ik heb het meeste van CSharp geleerd in school tijdens de lessen Software Ontwikkeling.
@@ -27,6 +28,8 @@ Al deze toepassing hebben wij in VBA gezien (acces en excel).
 - Refactoren: SourceTree, problemen met 2 dezelfde bestanden op 2 verschillende locaties
 - Sliders: Tabel die niet de hoogte en breedte gaf v/d ellipse
 - Methods: Problemen het het vinden hoe ik een parameter kreeg ingesteld. Ook problemen met het vinden wanneer je een return moet geven en wanneer niet.
+- Txtblock toevoegen aan balloon  (balloon)
+- backgroundcolor instellen als parameter (balloon)
 
 # Javascript
 
