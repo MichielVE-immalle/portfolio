@@ -1,17 +1,3 @@
-# CSharp
-## Voorbeelden van projecten:
-- https://dotnetfiddle.net/8QxPNF     (Dollar en pond omzetten naar euro's en omgekeerd)
-- https://dotnetfiddle.net/qNr5y2     (Opp. van een vierkant berekenen)
-- https://dotnetfiddle.net/G1x011     (Raad het getal, tussen 0 en 100)
-- https://github.com/MichielVE-immalle/CookieClickerWpf     (Cookie clicker)
-- https://github.com/MichielVE-immalle/FizzBuzzTest     (De FizzBuzz test)
-- https://github.com/MichielVE-immalle/Balloons-1     (groot school project)
-
-## Waar geleerd
-Ik heb het meeste van CSharp geleerd in school tijdens de lessen Software Ontwikkeling.
-Het andere deel van CSharp heb ik op mijn eigen geleerd door thuis aan wat projecten te werken `CookieClicker`.
-Ook via de familie, er zitten verschillende IT'ers in mijn familie.
-
 ### Gezien in het 4de
 - De random functie
 - Declareren van variabelen
@@ -21,7 +7,29 @@ Ook via de familie, er zitten verschillende IT'ers in mijn familie.
 - `Labels`, `Textbox`,`Textblock`,...
 - ...
 
-Al deze toepassing hebben wij in VBA gezien (acces en excel).
+# CSharp
+## Voorbeelden van projecten:
+- https://dotnetfiddle.net/8QxPNF     (Dollar en pond omzetten naar euro's en omgekeerd)
+- https://dotnetfiddle.net/qNr5y2     (Opp. van een vierkant berekenen)
+- https://dotnetfiddle.net/G1x011     (Raad het getal, tussen 0 en 100)
+- https://github.com/MichielVE-immalle/CookieClickerWpf     (Cookie clicker)
+- https://github.com/MichielVE-immalle/FizzBuzzTest     (De FizzBuzz test)
+- https://github.com/MichielVE-immalle/Balloons-1     (balloon) (oef school)
+
+## Wat geleerd
+- Wpf objecten en methode
+- MessageBox
+- variabelen
+- Methoden en argumenten
+- objecten
+- if
+- switch
+- for
+- while
+- klasse ontwerpen
+- static-methoden en -properties
+- foreach
+- Listbox
 
 ## Moeilijk heden
 - Random functie: had een probleem met het min. en max. getallen intestellen waardoor de functie een error gaf
@@ -30,6 +38,8 @@ Al deze toepassing hebben wij in VBA gezien (acces en excel).
 - Methods: Problemen het het vinden hoe ik een parameter kreeg ingesteld. Ook problemen met het vinden wanneer je een return moet geven en wanneer niet.
 - Txtblock toevoegen aan balloon  (balloon)
 - backgroundcolor instellen als parameter (balloon)
+
+#CSharpInteractive
 
 # Javascript
 
