@@ -60,3 +60,10 @@ Linux commandos van de linux terminal:
 - `cd`: naar home directory
 - `mkdir`: een nieuwe directory maken
 - `rmdir`: een lege directory verwijderen
+
+## ervaring met Linux
+linux is wel zeer handig voor programeren met de `Terminal`. 
+Maar als standaard OS zou ik het nooit thuis gebruiken.
+1) ik vind het persoonlijk onoverzichtelijk dat de verkenner en de infobar bovenaan het schermstaat.
+2) firefox als standaard browser.
+3)...
