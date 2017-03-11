@@ -57,17 +57,17 @@ Javascript is ongeveer hetzelfde als C#, er zijn veel gelijkenissen.
 -console.log() --> is het zelfde als Console.WriteLine()
 
 
-# Linux
+# Linux (xubuntu)
 ## commando's
-Linux commandos van de linux terminal:
+Linux commandos van de linux (xubuntu) terminal:
 - `ls`: toont directory lijst
 - `cd`: naar home directory
 - `mkdir`: een nieuwe directory maken
 - `rmdir`: een lege directory verwijderen
 
-## ervaring met Linux
+## ervaring met Linux (xubuntu)
 linux is wel zeer handig voor programeren met de `Terminal`. 
 Maar als standaard OS zou ik het nooit thuis gebruiken.
-1) ik vind het persoonlijk onoverzichtelijk dat de verkenner en de infobar bovenaan het schermstaat.
-2) firefox als standaard browser.
-3)...
+- 1) ik vind het persoonlijk onoverzichtelijk dat de verkenner en de infobar bovenaan het schermstaat.
+- 2) firefox als standaard browser.
+- 3)...
