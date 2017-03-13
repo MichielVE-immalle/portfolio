@@ -45,6 +45,10 @@
 
 #CSharpInteractive
 
+## sessie's
+- https://github.com/MichielVE-immalle/portfolio/blob/master/c%23%20interactive_1.txt  (sessie 1)
+- https://github.com/MichielVE-immalle/portfolio/blob/master/c%23%20interactive_2.txt  (sessie 2)
+
 # Javascript
 
 Javascript is ongeveer hetzelfde als C#, er zijn veel gelijkenissen.
