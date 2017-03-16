@@ -8,7 +8,7 @@
 - ...
 
 # CSharp
-## Voorbeelden van projecten:
+## projecten:
 - https://dotnetfiddle.net/8QxPNF     (Dollar en pond omzetten naar euro's en omgekeerd)
 - https://dotnetfiddle.net/qNr5y2     (Opp. van een vierkant berekenen)
 - https://dotnetfiddle.net/G1x011     (Raad het getal, tussen 0 en 100)
@@ -19,6 +19,7 @@
  - https://github.com/MichielVE-immalle/Shoppinglist-listboxen-
  - https://github.com/MichielVE-immalle/rekenen-met-listboxen
  - https://github.com/MichielVE-immalle/ListBoxenAlsZoekTabel
+- https://github.com/MichielVE-immalle/NotePad-- (NotePad)
 
 ## Wat geleerd
 - Wpf objecten en methode
