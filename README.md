@@ -43,7 +43,7 @@
 - Txtblock toevoegen aan balloon  (balloon)
 - backgroundcolor instellen als parameter (balloon)
 
-#CSharpInteractive
+# CSharpInteractive
 
 ## sessie's
 - https://github.com/MichielVE-immalle/portfolio/blob/master/c%23%20interactive_1.txt  (sessie 1)
