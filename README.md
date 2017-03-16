@@ -15,11 +15,11 @@
 - https://github.com/MichielVE-immalle/CookieClickerWpf     (Cookie clicker)
 - https://github.com/MichielVE-immalle/FizzBuzzTest     (De FizzBuzz test)
 - https://github.com/MichielVE-immalle/Balloons-1     (balloon) (oef school)
+- https://github.com/MichielVE-immalle/NotePad-- (NotePad)
 - Listboxen:
  - https://github.com/MichielVE-immalle/Shoppinglist-listboxen-
  - https://github.com/MichielVE-immalle/rekenen-met-listboxen
  - https://github.com/MichielVE-immalle/ListBoxenAlsZoekTabel
-- https://github.com/MichielVE-immalle/NotePad-- (NotePad)
 
 ## Wat geleerd
 - Wpf objecten en methode
